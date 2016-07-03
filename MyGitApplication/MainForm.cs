@@ -15,6 +15,7 @@ namespace MyGitApplication
         public MainForm()
         {
             InitializeComponent();
+            //my comment
         }
     }
 }
